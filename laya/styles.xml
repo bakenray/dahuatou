@@ -1,0 +1,12 @@
+<res>
+   <item name="comp/btn_rules.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=5,5,5,5" picType="0" scale="0"/>
+   <item name="comp/btn_red.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="comp/btn_start.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="comp/btn_1.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="comp/btn_2.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="comp/btn_3.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="comp/img_dialog.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=6,6,6,6" picType="0" scale="0"/>
+   <item name="comp/btn_sure.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="comp/btn_close.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="comp/img_dialog_bg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=12,12,12,12" picType="0" scale="0"/>
+</res>
